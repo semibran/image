@@ -1,4 +1,4 @@
 module.exports = {
-	load: require('image-load')
+	load: require('image-load'),
   Data: require('image-data')
 }
