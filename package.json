@@ -1,6 +1,6 @@
 {
   "name": "image",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Image utility suite",
   "license": "MIT",
   "author": "Brandon Semilla <semibran@gmail.com>",
@@ -10,6 +10,7 @@
     "url": "https://github.com/semibran/image.git"
   },
   "dependencies": {
+    "image-data": "github:semibran/image-data",
     "image-load": "github:semibran/image-load"
   }
 }
